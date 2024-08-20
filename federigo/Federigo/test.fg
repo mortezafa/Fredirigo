@@ -1,0 +1,7 @@
+var poo: Int = 342;
+
+if (poo > 10) {
+    var craig: Int = 13;
+} else {
+    var meow: Float = 23.5;
+}
